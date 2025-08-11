@@ -1,7 +1,6 @@
 
 # AI-Powered Demand Forecasting & Inventory Optimization
-
-**Timeline:** September 2024 – October 2024  
+  
 **Tech:** Python, Prophet, Pandas, Streamlit, Matplotlib, Statsmodels (ARIMA)
 
 ## What’s included
@@ -35,3 +34,4 @@
 - `prophet` package (formerly `fbprophet`) can require a C++ compiler on Windows; if installation fails, use WSL or conda.
 - ARIMA uses `statsmodels`; for automatic order selection you can integrate `pmdarima` (auto_arima).
 - This is a demo skeleton. For production, add validation, retraining pipelines, model evaluation, and persistence.
+
